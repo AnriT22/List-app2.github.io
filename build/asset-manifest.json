@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.3e1cb7bc.js",
-    "index.html": "/index.html",
-    "main.3e1cb7bc.js.map": "/static/js/main.3e1cb7bc.js.map"
+    "main.js": "/List-app.github.io/static/js/main.3e1cb7bc.js",
+    "index.html": "/List-app.github.io/index.html",
+    "main.3e1cb7bc.js.map": "/List-app.github.io/static/js/main.3e1cb7bc.js.map"
   },
   "entrypoints": [
     "static/js/main.3e1cb7bc.js"
